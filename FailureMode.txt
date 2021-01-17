@@ -1,0 +1,11 @@
+Pin failure
+Short failure
+Analog failure
+Testjet 
+FET
+Preshort
+B-scan
+Digital
+Power on
+Analog Functional
+Other
